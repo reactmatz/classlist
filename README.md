@@ -8,3 +8,8 @@
 6. Itera sobre cada elemento selecionado e adiciona a classe "highlight"
 7. Remove a classe "container" do elemento container
 8. Altera o atributo "src" da primeira imagem da página para uma nova imagem.
+
+#Metodos Classlist:
+<img src ="assets/methods.png" width="750px"
+
+
